@@ -1,0 +1,30 @@
+{
+  "wallpaper": true,
+  "wallpaper_rotation_minutes": 10,
+  "wallpaper_order": "sequential",
+  "wallpaper_captions": true,
+  "wallpaper_dim": 30,
+  "clock_wallpaper": true,
+  "clock_wallpaper_dim": 30,
+  "ambient_glow": false,
+  "dock_glass": true,
+  "dock_opacity": 60,
+  "columns": 5,
+  "dock_row": true,
+  "fill_dock": false,
+  "dock_apps": [
+    "innova.films.android.kinoflextv",
+    "ru.kinopoisk.tv",
+    "com.vk.tv",
+    "ru.radiationx.anilibria.app.tv",
+    "com.google.android.youtube.tv"
+  ],
+  "hidden_apps": [
+    "com.ctcmediagroup.videomore",
+    "tv.okko.androidtv",
+    "gpm.tnt_premier",
+    "com.mitv.tvhome.atv"
+  ],
+  "vpn_pill": true,
+  "vpn_app": "org.interhive.sota.connect"
+}
